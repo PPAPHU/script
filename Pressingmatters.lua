@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
-	Title = "Grape Soda V1 loaded enjoy!";
-	Text = "shout out to mattyboy_yt also shoutout choppa for testing";
+	Title = "Pressing Hub loaded dont skid";
+	Text = "Loaded dont skid you dirty nigger";
 	Duration = "20";
 })
 
